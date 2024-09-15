@@ -2,7 +2,7 @@
 
 **Veja o projeto ao vivo:**
 
-[Teste de Visão Online](hhhh)
+[Teste de Visão Online](em manutenção)
 
 O "**Teste de Visão Online**" é uma ferramenta interativa e acessível projetada para avaliar rapidamente aspectos fundamentais da sua visão diretamente no conforto da sua casa, sem a necessidade de visitas presenciais a uma clínica oftalmológica. Este teste simula de forma simples uma análise inicial de como sua visão está se comportando em relação à identificação de letras e cores.
 
@@ -48,10 +48,14 @@ O sistema bloqueia novas tentativas após as 10 perguntas, forçando o usuário 
 
 **7. Funcionalidades Extras:**
 
-9. Salvar como PDF: Após concluir o teste, o usuário tem a opção de salvar os resultados e o resumo do teste em formato PDF.Compartilhamento em Redes Sociais: Com botões integrados, o usuário pode compartilhar os resultados diretamente no Facebook, Twitter ou WhatsApp.Público-Alvo:
+Salvar como PDF: Após concluir o teste, o usuário tem a opção de salvar os resultados e o resumo do teste em formato PDF.
 
-O "Teste de Visão Online" é ideal para qualquer pessoa que deseja verificar rapidamente sua acuidade visual, avaliar sua capacidade de reconhecimento de cores ou treinar sua visão de uma maneira simples e divertida. Ele pode ser usado tanto por pessoas que suspeitam de problemas na visão quanto por quem busca manter suas habilidades visuais em dia.
+Compartilhamento em Redes Sociais: Com botões integrados, o usuário pode compartilhar os resultados diretamente no Facebook, Twitter ou WhatsApp.
 
-Aviso:
+## Público-Alvo: ##
+
+O "**Teste de Visão Online**" é ideal para qualquer pessoa que deseja verificar rapidamente sua acuidade visual, avaliar sua capacidade de reconhecimento de cores ou treinar sua visão de uma maneira simples e divertida. Ele pode ser usado tanto por pessoas que suspeitam de problemas na visão quanto por quem busca manter suas habilidades visuais em dia.
+
+## Aviso: ##
 
 Este teste não substitui uma avaliação oftalmológica profissional. Para diagnósticos mais precisos, é recomendado que o usuário consulte um especialista.
