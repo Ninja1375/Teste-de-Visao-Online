@@ -2,7 +2,7 @@
 
 **Veja o projeto ao vivo:**
 
-[Teste de Visão Online](em manutenção)
+[Teste de Visão Online](https://ninja1375.github.io/Teste-de-Visao-Online/)
 
 O "**Teste de Visão Online**" é uma ferramenta interativa e acessível projetada para avaliar rapidamente aspectos fundamentais da sua visão diretamente no conforto da sua casa, sem a necessidade de visitas presenciais a uma clínica oftalmológica. Este teste simula de forma simples uma análise inicial de como sua visão está se comportando em relação à identificação de letras e cores.
 
