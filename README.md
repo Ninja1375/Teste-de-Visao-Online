@@ -18,7 +18,33 @@ O usuário deve inserir a letra que vê no campo de entrada e selecionar a cor c
 
 **3. Modo Cronometrado e Modo de Treinamento:**
 
-6. Modo Cronometrado: Se o usuário optar por este modo, ele terá um tempo limitado para responder a cada letra apresentada. O temporizador conta o tempo restante para cada rodada e avisa quando o tempo se esgotar, forçando a submissão automática da resposta. Modo de Treinamento: Este modo permite que o usuário pratique sem pressão de tempo, ideal para treinar reconhecimento de letras e cores sem o cronômetro.4. Níveis de DificuldadeO teste oferece múltiplos níveis de dificuldade que ajustam o tamanho da letra e o grau de desfoque:Fácil: Letras grandes e nítidas.Médio: Letras um pouco menores e com leve desfoque.Difícil: Letras menores com desfoque mais acentuado.Muito Difícil: Letras pequenas e altamente desfocadas, desafiando a acuidade visual do usuário.5. Pontuação e Feedback ImediatoCada resposta recebe feedback instantâneo: se correta, o usuário ouve um som positivo e vê uma mensagem de acerto; se incorreta, um som de erro é tocado e o sistema exibe a resposta correta, informando qual era a letra e cor exibida.A pontuação é atualizada em tempo real, mostrando quantas respostas corretas e incorretas o usuário teve ao longo do teste.6. Resumo Final e ReinícioApós completar 10 perguntas, o usuário é apresentado a um resumo final que exibe o número total de acertos e erros.O sistema bloqueia novas tentativas após as 10 perguntas, forçando o usuário a clicar no botão de Reiniciar Teste para começar uma nova rodada de avaliação.
+Modo Cronometrado: Se o usuário optar por este modo, ele terá um tempo limitado para responder a cada letra apresentada. O temporizador conta o tempo restante para cada rodada e avisa quando o tempo se esgotar, forçando a submissão automática da resposta. 
+
+Modo de Treinamento: Este modo permite que o usuário pratique sem pressão de tempo, ideal para treinar reconhecimento de letras e cores sem o cronômetro.
+
+**4. Níveis de Dificuldade:** 
+
+O teste oferece múltiplos níveis de dificuldade que ajustam o tamanho da letra e o grau de desfoque:
+
+Fácil: Letras grandes e nítidas.
+
+Médio: Letras um pouco menores e com leve desfoque.
+
+Difícil: Letras menores com desfoque mais acentuado.
+
+Muito Difícil: Letras pequenas e altamente desfocadas, desafiando a acuidade visual do usuário.
+
+**5. Pontuação e Feedback Imediato:**
+
+Cada resposta recebe feedback instantâneo: se correta, o usuário ouve um som positivo e vê uma mensagem de acerto; se incorreta, um som de erro é tocado e o sistema exibe a resposta correta, informando qual era a letra e cor exibida.
+
+A pontuação é atualizada em tempo real, mostrando quantas respostas corretas e incorretas o usuário teve ao longo do teste.
+
+**6. Resumo Final e Reinício:**
+
+Após completar 10 perguntas, o usuário é apresentado a um resumo final que exibe o número total de acertos e erros.
+
+O sistema bloqueia novas tentativas após as 10 perguntas, forçando o usuário a clicar no botão de Reiniciar Teste para começar uma nova rodada de avaliação.
 
 **7. Funcionalidades Extras:**
 
