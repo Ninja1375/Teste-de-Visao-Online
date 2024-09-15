@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teste de Visão Online</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Teste de Visão Online</h1>
+    <p id="instructions">Digite a letra que você vê e escolha a cor ao lado:</p>
+    
+    <div class="test-area">
+      <div id="letter" class="letter">A</div>
+
+      <div class="color-selection">
+        <label>
+          <input type="radio" name="color" value="red"> Vermelho
+        </label>
+        <label>
+          <input type="radio" name="color" value="yellow"> Amarelo
+        </label>
+        <label>
+          <input type="radio" name="color" value="green"> Verde
+        </label>
+      </div>
+    </div>
+
+    <input type="text" id="userInput" placeholder="Digite a letra" maxlength="1">
+
+    <div class="button-area">
+      <button onclick="submitAnswer()">Submeter</button>
+      <button onclick="nextLetter()">Próxima Letra</button>
+    </div>
+
+    <p id="feedback"></p>
+
+    <div class="settings">
+      <div class="level">
+        <label for="difficulty">Selecione a dificuldade:</label>
+        <select id="difficulty" onchange="setDifficulty()">
+          <option value="easy">Fácil</option>
+          <option value="medium">Médio</option>
+          <option value="hard">Difícil</option>
+          <option value="veryHard">Muito Difícil</option>
+        </select>
+      </div>
+
+      <div class="mode">
+        <label for="mode">Modo:</label>
+        <select id="mode" onchange="setMode()">
+          <option value="practice">Treinamento</option>
+          <option value="timed">Cronometrado</option>
+        </select>
+      </div>
+
+      <div class="time">
+        <label for="timeSelect">Tempo por letra (s):</label>
+        <input type="range" id="timeSelect" min="10" max="20" value="10" onchange="updateTimeDisplay()">
+        <span id="timeDisplay">10s</span>
+      </div>
+    </div>
+
+    <p id="timer">Tempo restante: 10s</p>
+    <p id="score">Pontuação: 0</p>
+
+    <div class="summary" style="display: none;">
+      <h3>Resumo Final</h3>
+      <p id="correctAnswers">Respostas Corretas: 0</p>
+      <p id="incorrectAnswers">Respostas Incorretas: 0</p>
+      <button onclick="restartTest()">Reiniciar Teste</button>
+    </div>
+
+    <div class="share-buttons">
+      <h3>Compartilhe:</h3>
+      <button onclick="shareOnFacebook()"><i class="fab fa-facebook"></i> Facebook</button>
+      <button onclick="shareOnTwitter()"><i class="fab fa-twitter"></i> Twitter</button>
+      <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i> WhatsApp</button>
+    </div>
+
+    <div class="pdf-button">
+      <button onclick="saveAsPDF()"><i class="fas fa-file-pdf"></i> Salvar como PDF</button>
+    </div>
+
+    <audio id="correctSound" src="https://github.com/Ninja1375/Testes/raw/main/correct.mp3"></audio>
+    <audio id="incorrectSound" src="https://github.com/Ninja1375/Testes/raw/main/incorrect.mp3"></audio>
+  </div>
+  <script src="script.js" defer></script>
+</body>
+</html>
