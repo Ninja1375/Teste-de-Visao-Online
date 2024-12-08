@@ -56,9 +56,8 @@ Compartilhamento em Redes Sociais: Com botões integrados, o usuário pode compa
 
 O "**Teste de Visão Online**" é ideal para qualquer pessoa que deseja verificar rapidamente sua acuidade visual, avaliar sua capacidade de reconhecimento de cores ou treinar sua visão de uma maneira simples e divertida. Ele pode ser usado tanto por pessoas que suspeitam de problemas na visão quanto por quem busca manter suas habilidades visuais em dia.
 
-## Aviso: ##
-
-Este teste não substitui uma avaliação oftalmológica profissional. Para diagnósticos mais precisos, é recomendado que o usuário consulte um especialista.
+>[!CAUTION]
+>Este teste não substitui uma avaliação oftalmológica profissional. Para diagnósticos mais precisos, é recomendado que o usuário consulte um especialista.
 
 ## Linguagens Utilizadas:
 
