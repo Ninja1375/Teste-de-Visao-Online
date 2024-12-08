@@ -1,12 +1,12 @@
-## Descrição: ##
+## Descrição:
 
 **Veja o projeto ao vivo:**
 
-[Teste de Visão Online](https://ninja1375.github.io/Teste-de-Visao-Online/)
+**[Teste de Visão Online](https://ninja1375.github.io/Teste-de-Visao-Online/)**
 
 O "**Teste de Visão Online**" é uma ferramenta interativa e acessível projetada para avaliar rapidamente aspectos fundamentais da sua visão diretamente no conforto da sua casa, sem a necessidade de visitas presenciais a uma clínica oftalmológica. Este teste simula de forma simples uma análise inicial de como sua visão está se comportando em relação à identificação de letras e cores.
 
-## Como Funciona: ##
+## Como Funciona:
 
 **1. Geração Aleatória de Letras e Cores:** 
 
@@ -52,14 +52,12 @@ Salvar como PDF: Após concluir o teste, o usuário tem a opção de salvar os r
 
 Compartilhamento em Redes Sociais: Com botões integrados, o usuário pode compartilhar os resultados diretamente no Facebook, Twitter ou WhatsApp.
 
-## Público-Alvo: ##
+> [!WARNING]
+> O "**Teste de Visão Online**" é ideal para qualquer pessoa que deseja verificar rapidamente sua acuidade visual, avaliar sua capacidade de reconhecimento de cores ou treinar sua visão de uma maneira simples e divertida. Ele pode ser usado tanto por pessoas que suspeitam de problemas na visão quanto por quem busca manter suas habilidades visuais em dia.
 
-O "**Teste de Visão Online**" é ideal para qualquer pessoa que deseja verificar rapidamente sua acuidade visual, avaliar sua capacidade de reconhecimento de cores ou treinar sua visão de uma maneira simples e divertida. Ele pode ser usado tanto por pessoas que suspeitam de problemas na visão quanto por quem busca manter suas habilidades visuais em dia.
-
->[!CAUTION]
->Este teste não substitui uma avaliação oftalmológica profissional. Para diagnósticos mais precisos, é recomendado que o usuário consulte um especialista.
+> [!CAUTION]
+> Este teste não substitui uma avaliação oftalmológica profissional. Para diagnósticos mais precisos, é recomendado que o usuário consulte um especialista.
 
 ## Linguagens Utilizadas:
-
 
  <a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
