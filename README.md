@@ -52,11 +52,16 @@ Salvar como PDF: Após concluir o teste, o usuário tem a opção de salvar os r
 
 Compartilhamento em Redes Sociais: Com botões integrados, o usuário pode compartilhar os resultados diretamente no Facebook, Twitter ou WhatsApp.
 
-> [!WARNING]
+> [!NOTE]
 > O "**Teste de Visão Online**" é ideal para qualquer pessoa que deseja verificar rapidamente sua acuidade visual, avaliar sua capacidade de reconhecimento de cores ou treinar sua visão de uma maneira simples e divertida. Ele pode ser usado tanto por pessoas que suspeitam de problemas na visão quanto por quem busca manter suas habilidades visuais em dia.
 
 > [!CAUTION]
 > Este teste não substitui uma avaliação oftalmológica profissional. Para diagnósticos mais precisos, é recomendado que o usuário consulte um especialista.
+
+> [!WARNING]
+> [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Ninja1375/Teste-de-Visao-Online/blob/main/LICENSE)
+> 
+> Este projeto está licenciado sob a licença MIT. Você é livre para usá-lo, modificá-lo e distribuí-lo, desde que mantenha o aviso de copyright original e a licença.
 
 ## Linguagens Utilizadas:
 
